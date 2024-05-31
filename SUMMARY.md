@@ -15,3 +15,6 @@
 * [articles/normal](articles/normal/README.md)
   * [20240530](articles/normal/20240530/README.md)
     * [蓝莺IM功能介绍(一）](articles/normal/20240530/21_20240530_7_1_1717057723.md)
+* [articles2](articles2/README.md)
+  * [20240531](articles2/20240531/README.md)
+    * [蓝莺IM介绍(三）](articles2/20240531/34_20240531_4_1_1717154168.md)
