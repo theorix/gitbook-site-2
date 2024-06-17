@@ -157,7 +157,7 @@
             "type":"languages",
             "options": [
                 {
-                    "value": "/zh-hans/",
+                    "value": "/",
                     "text": "简体中文"
                 },
                 {
