@@ -155,7 +155,9 @@
         "3-ba": {
             "token": "e78e9e5952ccb5b1b443e429da5f0b03"
         },
-
+        "ga4": {
+            "tag": "G-82ZXMZLTY1"
+        },
         "versions": {
             "type":"languages",
             "options": [
