@@ -26,6 +26,7 @@
         "advanced-emoji@^0.2.1",
         "expandable-chapters-small@^0.1.7",
         "tbfed-pagefooter@^0.0.1",
+        "versions-select@^0.1.1",
         "terminal@^0.3.2",
         "code@^0.1.0",
         "splitter@^0.0.8",
