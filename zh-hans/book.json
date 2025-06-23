@@ -177,7 +177,7 @@
             "sitemap_hostname": "https://test12.lanyingim.cn/",
             "sitemap_default_language": "zh-hans",
             "hook_sentence_slogan": "## 关于我们\n***扫描下面公众号了解更多***",
-            "hook_sentence_image": "/assets/hook-sentence/20250623153427504726.jpeg"
+            "hook_sentence_image": "assets/hook-sentence/20250623153427504726.jpeg"
         }
     }
 }
